@@ -1,6 +1,5 @@
 <script lang="ts">
   import getPositionStyle from '@app/utils/getPositionStyle';
-  import generateFoodPosition from '@app/utils/generateFoodPosition';
 
   import { food as position } from '@app/store/gamestate';
 </script>
