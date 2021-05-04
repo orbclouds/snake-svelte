@@ -48,7 +48,7 @@
 
   .container {
     width: 60%;
-    max-width: 600px;
+    max-width: 50vh;
     margin: 64px auto;
     position: relative;
     border: solid 3px black;
